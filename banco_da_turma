@@ -1,0 +1,4 @@
+db.alunos.insertOne({
+  nome: "THIAGO CARTA ORCIUCH",
+  lanche_favorito: "Hamburguer de cheddar mc'melt"
+})
